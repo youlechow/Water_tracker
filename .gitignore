@@ -1,0 +1,20 @@
+# Flutter
+build/
+.dart_tool/
+.packages
+.pub/
+pubspec.lock
+
+# Android
+android/.gradle/
+android/app/build/
+
+# iOS
+ios/Pods/
+
+# Firebase（重要‼️）
+android/app/google-services.json
+
+# IDE
+.vscode/
+.idea/
